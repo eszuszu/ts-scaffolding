@@ -1,5 +1,7 @@
-//Intended to be used as a quick scaffolding and reference for custom types
-//all values are examples
+//Intended to be used as a quick scaffolding and reference for custom types, feel free to delete or edit,
+//currently there is no internal use and all values are examples.
+
+//you can export anything from here that's in the index.ts down a level at .xyz/index.ts to propogate it further
 
 
 interface User {
